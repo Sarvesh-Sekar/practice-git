@@ -1,1 +1,2 @@
-started git work ...
+Hi Guys... I will commit the file by saying 
+Hi everyone ... I started git
